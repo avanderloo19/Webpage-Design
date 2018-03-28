@@ -1,0 +1,20 @@
+
+/*
+* Abby Vanderloo
+* March 28, 2018
+* CSS Metadata Practice 
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { background-color: yellow;
+color: Black;
+
+}
