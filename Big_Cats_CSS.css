@@ -9,12 +9,30 @@
 /* The universal selector */
 
 * {
-
+font-family: Courir, Times, Arial; /*body font family*/
 }
 
 /* Put body attributes here */
 
-body { background-color: yellow;
+body { background-color: #FFF4A4;
 color: Black;
 
+
 }
+.title{ text-align: center;
+background-color: #FF6D46;  
+color: #021F09;
+
+/* font-family: arial, courier, times;*/
+font-size: 150%; /*Font percent*/
+text-decoration: underline;
+
+
+}
+.P {float:right}
+p { background-color:#FFFFFF;
+color:#581845;
+}
+
+h3{ background-color:  #FF6D46;
+color: #021F09}
