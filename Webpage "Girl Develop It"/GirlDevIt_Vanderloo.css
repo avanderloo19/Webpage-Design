@@ -1,0 +1,36 @@
+
+/*
+* Abby Vanderloo
+* April 18, 2018
+* Girl Develop It! 
+*/
+
+
+/* Put body attributes here */
+header { background-color:rgb(255, 102, 105);
+		 text-align: center;}
+
+
+body { background-color:#FFCCCC;
+color: Black;
+font-family: arial;}
+ 
+/* h1- font family and decorations*/
+h1 { font-family: Cursive;
+ 	text-decoration: underline; }
+ 		
+.img2 { height: 200px; /*both picture sizes are the same*/
+		width: 300px;
+		float: right;}
+		 		
+ h2 {font-family: Cursive;
+  	text-decoration: underline;}
+
+title{ text-align: center;
+background-color: #FF6D46;  
+color: #021F09;}
+
+/* hover and font size*/
+a:hover, a:focus {
+	color: hotpink;
+ 	font-size: 18pt;}
