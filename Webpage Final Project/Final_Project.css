@@ -1,0 +1,72 @@
+
+/* Name: Abby Vanderloo
+*  Date: 14 May 2018
+*  Lab: Final project */
+
+* {margin: 7;
+    padding: auto;}
+
+body {width:100% ;
+    background-color: #D5D9F2;
+    margin: .25px;										/* BODY*/
+    border: 3px solid #0A0279;}
+
+h1 {padding: 10px;										/* H1 */
+margin: 3px;}
+
+header { border-bottom: 2px solid #0A0279;
+background-color: #F2D5DF;								/* HEADER*/
+Text-align: Center;
+color: #0A0279;}
+
+#Trivia {Text-align: Center;
+	width: 25%;
+    height: 614px;										/* TRIVIA*/
+    float: left;
+    border-right: 2px solid #0A0279;
+    background-color:#ADAAD8;}
+
+main {width: 45%;
+    height:600px;
+    float: left;										/* MAIN*/
+    margin-left:35px;
+    padding; 10px;}
+
+#Legacy { Text-align: Center;
+	width: 25%;
+    height: 600px;
+    float:right ;
+    border-left: 2px solid #0A0279;						/* LEGACY*/
+    background-color:#ADAAD8;
+    padding: 7px;
+    margin 1px;}
+    
+    
+footer {clear: both;									/* FOOTER*/
+    border-top: 2px solid #0A0279;}
+
+.B3 { float: left; 
+	width: 150px;
+	Height: 100 px;										/* B3*/
+	margin: 10px;
+	border: solid #0A0279 3px; 
+	padding: 1px;}
+	
+.B1 { float: right;
+	width: 130px;
+	Height: 170px;
+	margin: 10px;										/* B1*/
+	border: solid #0A0279 3px; 
+	padding: 1px;}
+	
+.B2 {width: 270px;
+	Height: 210px;
+	margin: 10px;
+	border: solid #0A0279 3px; 							/* B2*/
+	padding: 1px;}
+
+.Edu { text-align: right;
+margin: 25px;											/* EDUCATIONAL PURPOSE ONLY*/
+color:#0A0279 }
+	
+	
